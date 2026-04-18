@@ -1,4 +1,5 @@
 <p align="center">
+  <h1 align="center">🦇 Welcome to the Batcave</h1>
   <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batcave Entrance" />
 </p>
 
@@ -14,7 +15,7 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 
 ---
 
-## 🛠️ THE UTILITY BELT (CORE ASSETS)
+## 🛠️ THE ARSENAL (TECHNOLOGIES IN TRAINING)
 *Focusing on building a bulletproof foundation in Python before expanding the arsenal.*
 
 <br>
