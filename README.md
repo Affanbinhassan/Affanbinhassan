@@ -90,19 +90,17 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 *Professional and focused collaboration. Contact me through the formal channels below:*
 
 <p align="center">
-<a href="https://linkedin.com/in/Affan-Bin-Hassan">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/affan.bin.hassan">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:affanbinhassan17@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+  <a href="https://linkedin.com/in/Affan-Bin-Hassan">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<br><br>
+  <a href="https://instagram.com/affan.bin.hassan">
+    <img src="https://skillicons.dev/icons?i=instagram" width="50"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666" />
+  <a href="mailto:affanbinhassan17@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+  </a>
 </p>
