@@ -1,12 +1,12 @@
+<h1 align="center">🦇 Welcome to the Batcave</h1>
+
 <p align="center">
-  <h1 align="center">🦇 Welcome to the Batcave</h1>
   <a href="https://github.com/Affanbinhassan">
     <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Bat-OS Dashboard" />
   </a>
-  <br>
-  <p align="center"><b>[ Bat-OS Dashboard ]</b></p>
 </p>
 
+<p align="center"><b>[ Bat-OS Dashboard ]</b></p>
 ---
 
 ## 🦇 The Developer Behind the Mask
