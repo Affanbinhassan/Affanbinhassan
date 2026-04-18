@@ -28,20 +28,22 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 
 ---
 
+## ⚙️ MY Bat-Computer Specs (Hardware)
+I prioritize performance and versatility in my equipment. My current setup enables both development and intensive computational training.
+
+* **Machine:** HP Pavilion x360 2-in-1 Laptop 💻
+* **Processor:** 12th Gen Intel(R) Core(TM) i5-1235U (12 CPUs)
+* **Memory:** 8GB RAM 🧠
+* **OS:** Windows 11 Home
+
+---
+
 ## 🛠️ THE ARSENAL (TECHNOLOGIES IN TRAINING)
 *Focusing on building a bulletproof foundation in Python before expanding the arsenal.*
 
 <br>
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
-
----
-
-## ⚙️ Bat-Computer Specs (Hardware)
-* **Machine:** HP Pavilion x360 2-in-1 Laptop 💻 
-* **Processor:** 12th Gen Intel(R) Core(TM) i5-1235U (12 CPUs) 
-* **Memory:** 8GB RAM 🧠 
-* **OS:** Windows 11 Home 
 
 ---
 
