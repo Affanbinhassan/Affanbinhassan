@@ -1,5 +1,6 @@
 # 🦇 Welcome to the Batcave
-![Batcave Header](https://i.ibb.co/3yk5Zt3/Affan-Bat-OS-Preview.png)
+![Bat-OS Dashboard](https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/themes/tokyonight.png) 
+*(Note: Replace the URL above with your actual header image link once uploaded to GitHub)*
 
 ---
 
@@ -16,6 +17,8 @@
 
 ## 🛠️ THE UTILITY BELT (CORE ASSETS)
 *Focusing on building a bulletproof foundation in Python before expanding the arsenal.*
+
+<br>
 
 <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FFD43B" /> <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" /> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032" />
 
@@ -55,15 +58,15 @@
 *Professional and focused collaboration. Contact me through the formal channels below:*
 
 <a href="https://linkedin.com/in/Affan-Bin-Hassan">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/affan.bin.hassan">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:affanbinhassan17@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br>
+<br><br>
 
 ![Footer](https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666)
