@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batman Header" />
+  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batman Cinematic Header" />
 
   # **[ BAT-OS // MASTER AFFAN AUTHENTICATED ]**
-  ### **SYSTEM STATUS: ONLINE | PRIMARY OBJECTIVE: DOMINATE AI & DS**
+  ### **SYSTEM STATUS: ONLINE | MISSION: AI & DATA SCIENCE**
 </div>
 
 ---
@@ -22,24 +22,24 @@
 ## 💻 THE BAT-COMPUTER (BAT-OS INTERFACE)
 
 <div align="center">
-  <table border="5" bordercolor="666666" style="border-radius: 10px; background-color: 0D1117;">
+  <table border="5" bordercolor="#444444" style="background-color: #0D1117;">
     <tr>
       <td>
-        <img src="https://image.upilink.in/vFhIxfkE5gG2mDk/original_Batman_OS_Reference.png" width="100%" alt="Bat-OS Interface Reference" />
+        <img src="https://i.ibb.co/mFhIxfk/batmanprof.jpg" width="600px" alt="Bat-OS Reference" />
       </td>
     </tr>
   </table>
-  <p><i>Visual authentication of Bat-OS terminal interface.</i></p>
+  <p><i>SECONDARY TERMINAL: SECURE ASSET VIEW</i></p>
 </div>
 
 ---
 
-## 🛠️ THE UTILITY BELT (PRIMARY ASSET)
+## 🛠️ THE UTILITY BELT (PRIMARY ASSETS)
 <table border="0" align="center">
   <tr>
     <td width="70%">
-      <b>ACTIVE MISSION:</b> Python 3.x Mastery<br>
-      <b>STATUS:</b> LEVELING UP SKILLS (Data Structures, Logic, OOP)
+      <b>ACTIVE MISSION:</b> Python 3.x Mastery  <br>
+      <b>STATUS:</b> LEVELING UP SKILLS (Data Structures, Logic)
     </td>
     <td width="30%" align="center">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60px" />
@@ -56,11 +56,11 @@
       <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4dmh2N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lGAg78eU1K3Qy0/giphy.gif" width="300px" style="border-radius: 10px;" />
     </td>
     <td>
-      <b>TACTICAL HARDWARE:</b><br>
-      • HP Pavilion x360 2-in-1 Laptop<br>
-      • CPU: 12th Gen Intel Core i5-1235U<br>
-      • MEMORY: 8GB RAM<br>
-      • OS: Windows 11 Home
+      <b>TACTICAL HARDWARE:</b>  <br>
+      • HP Pavilion x360 2-in-1  <br>
+      • 12th Gen Intel Core i5-1235U  <br>
+      • 8GB High-Speed RAM  <br>
+      • Windows 11 Home OS
     </td>
   </tr>
 </table>
@@ -68,8 +68,8 @@
 ---
 
 ## 🏎️ OFF-DUTY SIMULATIONS
-* **Physical Excellence:** Maintaining peak form via Outdoor Sports. 🏏⚽
-* **Mental Strategy:** Strategic gaming and immersive technical reading. 🎮📚
+* **Physical Excellence:** Maintaining peak form via Outdoor Sports. 🏏
+* **Mental Strategy:** Strategic gaming and technical reading. 🎮
 
 ---
 
@@ -93,5 +93,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=black&height=80&section=footer&text=Justice%20For%20Gotham%20%7C%20Code%20For%20Data&fontSize=20&fontColor=666666" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=black&height=80&section=footer&text=GOOD%20EVENING,%20MASTER%20AFFAN%20|%202026&fontSize=20&fontColor=666666" />
 </div>
