@@ -51,7 +51,7 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 
 ---
 
-## 🛠️ THE ARSENAL (TECHNOLOGIES IN TRAINING)
+## 🛠️ THE UTILITY BELT (CORE ASSETS)
 *Focusing on building a bulletproof foundation in Python before expanding the arsenal.*
 
 <br>
