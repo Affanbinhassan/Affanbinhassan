@@ -5,12 +5,10 @@
 
 ---
 
-## 👤 ABOUT ME / MY DETAILS
-* **Subject:** Affan Bin Hassan
-* **Location:** Hyderabad, Telangana, India
-* **Objective:** Artificial Intelligence & Data Science Engineering
-
+## 👨‍💻 Affan Bin Hassan
 ### **Emerging AI & Data Science Engineer**
+
+Currently pursuing a Bachelor of Engineering (B.E.) in Artificial Intelligence and Data Science at ISL Engineering College.
 
 > *"It's not who I am underneath, but what I code that defines me."*
 
