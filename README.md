@@ -13,6 +13,8 @@ I am currently building a solid foundation in **Python programming**, with a foc
 
 Beyond academics, I actively explore emerging technologies, tools, and industry trends. My goal is to develop into a skilled developer and contribute to meaningful, impactful projects in the future.
 
+> *"It's not who I am underneath, but what I code that defines me."*
+
 ---
 
 ## 🛠️ THE ARSENAL (TECHNOLOGIES IN TRAINING)
@@ -68,7 +70,5 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 </a>
 
 <br><br>
-
-> *"It's not who I am underneath, but what I code that defines me."*
 
 ![Footer](https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666)
