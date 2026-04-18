@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmc4dmh2N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/6vsk8F0P92i0o/giphy.gif" width="100%" />
+  <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batman Header" />
 
-  # **[ BAT-OS // VERSION 2026.04 ]**
-  ### **SYSTEM STATUS: ONLINE | MASTER AFFAN AUTHENTICATED**
+  # **[ BAT-OS // MASTER AFFAN AUTHENTICATED ]**
+  ### **SYSTEM STATUS: ONLINE | PRIMARY OBJECTIVE: DOMINATE AI & DS**
 </div>
 
 ---
@@ -10,20 +10,38 @@
 ## 🕵️‍♂️ MISSION LOG: IDENTITY
 **SUBJECT:** Affan Bin Hassan  
 **LOCATION:** Hyderabad, Telangana, India  
-**OBJECTIVE:** Artificial Intelligence & Data Science Engineering  
 
-> *"It's not who I am underneath, but what I code that defines me."*
+<br>
+<blockquote>
+  <b>"It's not who I am underneath, but what I code that defines me."</b>
+</blockquote>
+<br>
+
+---
+
+## 💻 THE BAT-COMPUTER (BAT-OS INTERFACE)
+
+<div align="center">
+  <table border="5" bordercolor="666666" style="border-radius: 10px; background-color: 0D1117;">
+    <tr>
+      <td>
+        <img src="https://image.upilink.in/vFhIxfkE5gG2mDk/original_Batman_OS_Reference.png" width="100%" alt="Bat-OS Interface Reference" />
+      </td>
+    </tr>
+  </table>
+  <p><i>Visual authentication of Bat-OS terminal interface.</i></p>
+</div>
 
 ---
 
 ## 🛠️ THE UTILITY BELT (PRIMARY ASSET)
-<table border="0">
+<table border="0" align="center">
   <tr>
-    <td width="50%">
-      <p><b>ACTIVE REPOSITORY:</b> Python 3.x</p>
-      <p><b>STATUS:</b> Leveling Up Skills (Learning Phase)</p>
+    <td width="70%">
+      <b>ACTIVE MISSION:</b> Python 3.x Mastery<br>
+      <b>STATUS:</b> LEVELING UP SKILLS (Data Structures, Logic, OOP)
     </td>
-    <td width="50%" align="center">
+    <td width="30%" align="center">
       <img src="https://skillicons.dev/icons?i=python&theme=dark" width="60px" />
     </td>
   </tr>
@@ -31,26 +49,31 @@
 
 ---
 
-## ⚙️ BAT-COMPUTER DIAGNOSTICS
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4dmh2N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lGAg78eU1K3Qy0/giphy.gif" width="400px" style="border-radius: 10px;" />
-</div>
-
-* **HARDWARE:** HP Pavilion x360 2-in-1
-* **CPU:** 12th Gen Intel Core i5-1235U
-* **MEMORY:** 8GB RAM
-* **OS:** Windows 11 Home
+## ⚙️ BAT-COMPUTER DIAGNOSTICS (THE GEAR)
+<table border="0" align="center">
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmY4dmh2N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6N3B6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lGAg78eU1K3Qy0/giphy.gif" width="300px" style="border-radius: 10px;" />
+    </td>
+    <td>
+      <b>TACTICAL HARDWARE:</b><br>
+      • HP Pavilion x360 2-in-1 Laptop<br>
+      • CPU: 12th Gen Intel Core i5-1235U<br>
+      • MEMORY: 8GB RAM<br>
+      • OS: Windows 11 Home
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🏎️ OFF-DUTY SIMULATIONS
-* **Physical Excellence:** Maintaining peak form via Outdoor Sports. 🏏
-* **Mental Strategy:** Strategic gaming and technical reading. 🎮📚
+* **Physical Excellence:** Maintaining peak form via Outdoor Sports. 🏏⚽
+* **Mental Strategy:** Strategic gaming and immersive technical reading. 🎮📚
 
 ---
 
 ## 🦇 SHINE THE BAT-SIGNAL (COMMUNICATIONS)
-
 <div align="center">
   <p><i>Establish encrypted connection with Master Affan:</i></p>
 
@@ -70,5 +93,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=000000&height=100&section=footer&text=GOOD%20EVENING,%20MASTER%20AFFAN%20|%202026&fontSize=25&fontColor=666666" />
+  <img src="https://capsule-render.vercel.app/render?type=soft&color=black&height=80&section=footer&text=Justice%20For%20Gotham%20%7C%20Code%20For%20Data&fontSize=20&fontColor=666666" />
 </div>
