@@ -1,16 +1,16 @@
 <p align="center">
-  <h1 align="center">🦇 Welcome to the Batcave</h1>
   <img src="https://media.giphy.com/media/l396BoOTIFem9xqQU/giphy.gif" width="100%" alt="Batcave Entrance" />
 </p>
 
 ---
 
-## 👨‍💻 Affan Bin Hassan
-### **Emerging AI & Data Science Engineer**
+## 🦇 The Developer Behind the Mask
 
-Currently pursuing a Bachelor of Engineering (B.E.) in Artificial Intelligence and Data Science at ISL Engineering College.
+Hello, I am **Affan bin Hassan**, an engineering student with a strong interest in **Artificial Intelligence and Data Science**. I am passionate about leveraging technology to solve real-world problems and continuously strive to enhance my technical and analytical skills through self-driven learning.
 
-> *"It's not who I am underneath, but what I code that defines me."*
+I am currently building a solid foundation in **Python programming**, with a focus on problem-solving, logical thinking, and applying concepts through practical projects. I am particularly interested in data-driven approaches and the role of intelligent systems in shaping modern technology.
+
+Beyond academics, I actively explore emerging technologies, tools, and industry trends. My goal is to develop into a skilled developer and contribute to meaningful, impactful projects in the future.
 
 ---
 
