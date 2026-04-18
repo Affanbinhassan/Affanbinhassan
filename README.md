@@ -13,7 +13,9 @@ I am currently building a solid foundation in **Python programming**, with a foc
 
 Beyond academics, I actively explore emerging technologies, tools, and industry trends. My goal is to develop into a skilled developer and contribute to meaningful, impactful projects in the future.
 
-> *"It's not who I am underneath, but what I code that defines me."*
+<p align="center">
+  <i>"It's not who I am underneath, but what I code that defines me."</i>
+</p>
 
 ---
 
@@ -27,10 +29,10 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 ---
 
 ## ⚙️ Bat-Computer Specs (Hardware)
-* **Machine:** HP Pavilion x360 2-in-1 Laptop 💻
-* **Processor:** 12th Gen Intel(R) Core(TM) i5-1235U (12 CPUs)
-* **Memory:** 8GB RAM 🧠
-* **OS:** Windows 11 Home
+* **Machine:** HP Pavilion x360 2-in-1 Laptop 💻 
+* **Processor:** 12th Gen Intel(R) Core(TM) i5-1235U (12 CPUs) 
+* **Memory:** 8GB RAM 🧠 
+* **OS:** Windows 11 Home 
 
 ---
 
@@ -44,8 +46,8 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 ---
 
 ## 🏎️ Off-Duty (Hobbies)
-* **Physical Excellence:** Maintaining peak form via Outdoor Sports (🏏⚽).
-* **Mental Strategy:** Strategic gaming and immersive technical reading.
+* **Physical Excellence:** Maintaining peak form via Outdoor Sports (🏏⚽). 
+* **Mental Strategy:** Strategic gaming and immersive technical reading. 
 
 ---
 
