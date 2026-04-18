@@ -28,7 +28,7 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 
 ---
 
-## ⚙️ MY Bat-Computer Specs (Hardware)
+## ⚙️ My Bat-Computer Specs (Hardware)
 I prioritize performance and versatility in my equipment. My current setup enables both development and intensive computational training.
 
 * **Machine:** HP Pavilion x360 2-in-1 Laptop 💻
