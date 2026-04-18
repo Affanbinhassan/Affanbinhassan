@@ -54,25 +54,4 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 ---
 
 ## 📊 Analytics & Impact
-![Affan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Affanbinhassan&show_icons=true&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&icon_color=FFD43B&border_color=333333)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Affanbinhassan&layout=compact&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&border_color=333333)
-
----
-
-## 🤝 Call the Bat-Signal
-*Professional and focused collaboration. Contact me through the formal channels below:*
-
-<a href="https://linkedin.com/in/Affan-Bin-Hassan">
-  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://instagram.com/affan.bin.hassan">
-  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:affanbinhassan17@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br><br>
-
-![Footer](https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666)
+![Affan's GitHub Stats](
