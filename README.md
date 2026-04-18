@@ -51,7 +51,7 @@
 ## 🏎️ Off-Duty (Hobbies)
 
 * **Physical Excellence:** Maintaining peak form via Outdoor Sports (🏏⚽).
-* **Mental Strategy:** Immersive simulations and strategic gaming.
+* **Mental Strategy:** Strategic gaming and immersive technical reading.
 
 ---
 
@@ -68,17 +68,17 @@
 *Professional and focused collaboration. Contact me through the formal channels below:*
 
 <a href="https://linkedin.com/in/Affan-Bin-Hassan">
-  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://instagram.com/affan.bin.hassan">
-  <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:affanbinhassan17@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFU_2026&fontSize=20&fontColor=666666" />
+<img src="https://capsule-render.vercel.app/render?type=soft&color=000000&height=80&section=footer&text=ROOT_ACCESS_GRANTED_%7C_MASTER_AFFAN_2026&fontSize=20&fontColor=666666" />
 
 </div>
