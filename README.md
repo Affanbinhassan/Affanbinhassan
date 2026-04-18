@@ -6,7 +6,7 @@
   </a>
 </p>
 
-<p align="center"><b>[ Bat-OS Dashboard ]</b></p>
+
 ---
 
 ## 🦇 The Developer Behind the Mask
