@@ -19,6 +19,15 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 
 ---
 
+## 🚀 Current Missions & Training
+*I am focused on upgrading my skills to meet the challenges of the AI frontier. This is what's on my active monitor:*
+
+* **Dominating Python:** Deepening understanding of advanced data structures, OOP, and algorithms.
+* **Exploring Data Science Foundations:** Introducing myself to key libraries (NumPy, Pandas) for data manipulation.
+* **System Integrity:** Standardizing my workflow with version control (Git/GitHub).
+
+---
+
 ## 🛠️ THE ARSENAL (TECHNOLOGIES IN TRAINING)
 *Focusing on building a bulletproof foundation in Python before expanding the arsenal.*
 
@@ -33,15 +42,6 @@ Beyond academics, I actively explore emerging technologies, tools, and industry 
 * **Processor:** 12th Gen Intel(R) Core(TM) i5-1235U (12 CPUs) 
 * **Memory:** 8GB RAM 🧠 
 * **OS:** Windows 11 Home 
-
----
-
-## 🚀 Current Missions & Training
-*I am focused on upgrading my skills to meet the challenges of the AI frontier. This is what's on my active monitor:*
-
-* **Dominating Python:** Deepening understanding of advanced data structures, OOP, and algorithms.
-* **Exploring Data Science Foundations:** Introducing myself to key libraries (NumPy, Pandas) for data manipulation.
-* **System Integrity:** Standardizing my workflow with version control (Git/GitHub).
 
 ---
 
