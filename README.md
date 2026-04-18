@@ -55,14 +55,16 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 
 <p align="center">
   <i>Currently focused on building a strong foundation in Python while expanding my development toolkit.</i>
-  <br><br>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/> &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
-
 </p>
+
+<table align="center">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50"/></td>
+    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/></td>
+  </tr>
+</table>
 
 --- 
 
