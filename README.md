@@ -73,17 +73,13 @@ I prioritize performance and versatility in my equipment. My current setup enabl
 
 ## 📊 Analytics & Impact
 
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Affanbinhassan&show_icons=true&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&icon_color=FFD43B&border_color=333333" alt="Affan's GitHub Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Affanbinhassan&layout=compact&theme=tokyonight&bg_color=000000&title_color=FFD43B&text_color=ffffff&border_color=333333" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+</p>
 ---
 
 ## 🤝 Call the Bat-Signal
